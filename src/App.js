@@ -20,7 +20,7 @@ function App() {
         </li>
         <li>
           <a
-            href=""
+            href="https://github.com/HugoNunes87"
             target="_blanck"><GithubLogo size={30} color="#000000"/>GitHub</a>
         </li>
         <li>
