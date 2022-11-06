@@ -11,22 +11,22 @@ function App() {
         <li>
           <a
             href="https://plataforma-de-video.vercel.app/"
-            target="_blanck"> <MonitorPlay size={30} color="#000000"/> Plataforma de Video - Portfólio</a>
+            target="_blanck"> <MonitorPlay size={30} color="#e1e1e6"/> Plataforma de Video - Portfólio</a>
         </li>
         <li>
           <a
             href="https://www.linkedin.com/in/hugo-nunes-323a41164/"
-            target="_blanck"><LinkedinLogo size={30} color="#000000"/>LinkeIn</a>
+            target="_blanck"><LinkedinLogo size={30} color="#e1e1e6"/>LinkeIn</a>
         </li>
         <li>
           <a
             href="https://github.com/HugoNunes87"
-            target="_blanck"><GithubLogo size={30} color="#000000"/>GitHub</a>
+            target="_blanck"><GithubLogo size={30} color="#e1e1e6"/>GitHub</a>
         </li>
         <li>
           <a
             href="https://discord.com/"
-            target="_blanck"><DiscordLogo size={30} color="#000000"/>Discord</a>
+            target="_blanck"><DiscordLogo size={30} color="#e1e1e6"/>Discord</a>
         </li>
       </ul>
       
